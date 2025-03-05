@@ -1,4 +1,4 @@
-<!-### ✨ Hey there, I’m Ayush Deuja! 👋<br>  
+✨ Hey there, I’m Ayush Deuja! 👋<br>  
 🚀 I’m a *Web Developer and Problem Solver, always on the lookout for exciting challenges. As a **MERN stack enthusiast*, I love diving deep into full-stack development, crafting seamless web applications, and pushing the limits of what’s possible with modern web technologies.<br><br>  
 
 🎓 I’m currently pursuing a *BSc CSIT* at Himalaya Darshan College, where I get to blend my passion for coding with structured learning.<br>  
