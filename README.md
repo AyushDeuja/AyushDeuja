@@ -12,7 +12,6 @@ Beyond academics, I spend my time tinkering with new ideas, contributing to *ope
 🌱 Currently, I’m *leveling up* my expertise in *Full-Stack Development and Algorithms*, refining my ability to build robust applications while optimizing efficiency in problem-solving.<br><br>  
 
 💬 I love connecting with *like-minded people! Whether it’s discussing **tech trends, brainstorming **project ideas, or geeking out over cool innovations, I’m always up for an engaging conversation. **Let’s connect and build something amazing together!* 🚀-
-**AyushDeuja/AyushDeuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
