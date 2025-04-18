@@ -9,8 +9,8 @@
 💬 Let’s connect, collaborate & create something awesome!<br>
 
 ## 📫 How to Reach Me:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushdeuja11@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://ayushdeuja.com.np)
+📧 Email: ayushdeuja11@gmail.com<br>
+🌍 Website: https://ayushdeuja.com.np<br>
 
 
 ## 🌐 Socials:
