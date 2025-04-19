@@ -9,7 +9,6 @@
 💬 Let’s connect, collaborate & create something awesome!<br>
 
 ## 📫 How to Reach Me:
-📧 Email: ayushdeuja11@gmail.com<br>
 🌍 Website: https://ayushdeuja.com.np<br>
 
 
