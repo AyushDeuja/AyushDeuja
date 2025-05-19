@@ -3,7 +3,6 @@
 🎓 BSc CSIT @ Himalaya Darshan College<br><br>
 
 💡 I build full-stack web apps with a focus on performance, scalability & clean UX.<br>
-🧠 Into DSA, competitive programming & open-source contributions.<br>
 🔍 Always exploring new tools, frameworks & solving exciting challenges.<br><br>
 
 💬 Let’s connect, collaborate & create something awesome!<br>
