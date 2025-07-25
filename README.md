@@ -1,5 +1,5 @@
 👋 Hi, I'm Ayush Deuja!<br>
-🚀 React and Node Developer | Problem Solver | Tech Enthusiast<br>
+🚀 React and Node Developer | Laravel and React Native Developer | Problem Solver | Tech Enthusiast<br>
 🎓 BSc CSIT @ Himalaya Darshan College<br><br>
 
 💡 I build full-stack web apps with a focus on performance, scalability & clean UX.<br>
