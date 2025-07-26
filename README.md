@@ -2,7 +2,7 @@
 🚀 React and Node Developer | Laravel and React Native Developer | Problem Solver | Tech Enthusiast<br>
 🎓 BSc CSIT @ Himalaya Darshan College<br><br>
 
-💡 I build full-stack web apps with a focus on performance, scalability & clean UX.<br>
+💡 I build full-stack web apps and cross platform mobile apps with a focus on performance, scalability & clean UX.<br>
 🔍 Always exploring new tools, frameworks & solving exciting challenges.<br><br>
 
 💬 Let’s connect, collaborate & create something awesome!<br>
