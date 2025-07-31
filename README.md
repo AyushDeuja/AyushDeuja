@@ -1,5 +1,5 @@
 👋 Hi, I'm Ayush Deuja!<br>
-🚀Web App And Mobile App Developer | Problem Solver | Tech Enthusiast<br>
+🚀 Web App And Mobile App Developer | Problem Solver | Tech Enthusiast<br>
 🎓 BSc CSIT @ Himalaya Darshan College<br><br>
 
 💡 I build full-stack web apps and cross platform mobile apps with a focus on performance, scalability & clean UX.<br>
