@@ -1,6 +1,5 @@
 ## 👋 Hi, I'm Ayush Deuja!<br>
 
-# 📫 How to Reach Me:<br>
 🌍 Website: https://ayushdeuja.com.np<br>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ayush.deuja.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushdeuja_01)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-deuja-3aa819305/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushdeuja11@gmail.com) 
